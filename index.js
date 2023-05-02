@@ -1,0 +1,1 @@
+let SVG = require('./lib/svg')
